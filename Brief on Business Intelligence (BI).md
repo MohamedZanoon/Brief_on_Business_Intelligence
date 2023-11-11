@@ -17,7 +17,7 @@ Also, Processes (Activities)  using software and services to transform data into
 
 -----------------------------------------------------------------------------------------
 
-## ✨ 1. Data Warehouse (DW / DWH):
+## 1. Data Warehouse (DW / DWH):
 
 A **data warehouse** is a type of data management system that is designed to enable and support business intelligence (BI) activities, especially analytics to help an organization make decisions.
 
@@ -101,7 +101,7 @@ is the inventor of the Data Vault Architecture (now deemed Data Vault 1.0) and D
 
 -----------------------------------------------------------------------------------------
 
-## ✨ 2. Data Integration:
+## 2. Data Integration:
 
 **Data Integration** is the process of combining data from different sources into a single, unified view. Integration begins with the ingestion process, and includes steps such as **cleansing**, **ETL/ELT mapping**, and **transformation**.
 
@@ -144,7 +144,7 @@ Data Cleaning is the process of fixing or removing incorrect, corrupted, incorre
 
 -----------------------------------------------------------------------------------------
 
-## ✨ 3. Data Analysis:
+## 3. Data Analysis:
 
 **Data Analysis** is defined as a process of cleaning, transforming, and modeling data to discover useful information for business decision-making. The purpose of Data Analysis is to extract useful information from data and taking the decision based upon the data analysis.
 
@@ -212,7 +212,7 @@ Prescriptive Analysis shows **"How can we make it happen?"** by combining the in
 
 -----------------------------------------------------------------------------------------
 
-## ✨ 4. Data Reporting:
+## 4. Data Reporting:
 **Data Reporting** is the process of collecting and formatting raw data and translating it into a digestible format to assess the ongoing performance of your organization. It is the process of collecting and submitting data which gives rise to accurate analyses of the facts on the ground. Different from data analysis that transforms data and information into insights, data reporting is the previous step that translates raw data into information.
 
 
@@ -254,7 +254,6 @@ By presenting the data in different types of charts, the relationship between th
 -   Data Visualization Developer
 
 
------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------
 
 #### 📞 Contacts:
